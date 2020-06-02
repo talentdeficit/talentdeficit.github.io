@@ -1,0 +1,8 @@
+- skill: programming languages
+  description: <p>typescript &bull; javascript &bull; java &bull; kotlin &bull; scala &bull; erlang &bull; elixir &bull; python</p>
+
+- skill: databases and data storage
+  description: <p>postgresql &bull; mysql &bull; elasticseach &bull; aws redshift &bull; apache spark &bull; apache presto &bull; apache kafka &bull; aws kinesis</p>
+
+- skill: platforms and infrastructure
+  description: <p>linux &bull; aws &bull; docker &bull; opentracing &bull; elk &bull; cloudformation &bull; terraform &bull; ansible</p>

@@ -1,0 +1,31 @@
+- company: SEDNA Systems
+  position: senior software developer
+  duration: april 2018 &mdash; present
+  summary: alisdair led the team responsible for SEDNA's API, primary and secondary data stores (MySQL and Elasticsearch) and supporting services and infrastructure
+  responsibilities:
+    - worked with product managers to refine product goals into technical requirements
+    - mentored other members of the team; pairing with them, reviewing their pull requests and working to clarify their tasks
+    - communicated with integration partners and customers to ensure SEDNA's API was appropriate and functional for their requirements
+    - worked with the entire development team and company leadership to establish and document service monitoring and on call and incident procedures
+  achievements:
+    - refactored a react client application and replaced a tangle of concurrent api requests that often encountered race conditions and data consistency violations with an rxjs based reactive approach that eliminated all protocol errors
+    - migrated from an application specific private API to an application agnostic versioned public API
+    - instrumented a react client application and kotlin, nodejs and elixir server applications with modern distributed system tooling including tracing (<a href="https://opentracing.io">opentracing</a>) and metrics (<a href="https://prometheus.io">prometheus</a>)
+
+- company: Askuity
+  position: senior software developer
+  duration:  may 2015 &mdash; march 2018
+  summary: alisdair led the team responsible for the ingestion of customer data, the persistence of that data to data warehouses including postgresql, apache presto and aws redshift and the infrastructure and supporting libraries for querying that data
+  responsibilities:
+    - worked with data brokers and customers to automatically extract and ingest data from a variety of sources including sftp, apache kafka, edi brokerages and email
+    - led and mentored a team of software developers and data analysts, working with them to ensure adherence to industry best practices like source control, code review and test driven development
+  achievements:
+    - led the design and implementation of a data ingestion pipeline capable of capturing billions of data points each day; aggregating, deduplicating and storing while maintaining data providence to faciliate the invalidation or replacement of already ingested data
+    - wrote and maintained a framework and react application to allow data analysts and customer implementation specialists to submit and run spark sql queries over data stored across aws s3, aws redshift and postgresql and track outdated query results for which new or updated data existed
+    - developed an API and angular application to allow customers to submit and validate supplemental data used to enrich the data automatically ingested via other means
+
+- company: Twentieth Century Fox Film Productions
+  position: scenic art department coordinator
+  duration: january 2012 &mdash; april 2015
+  summary: alisdair worked as a supervisor in the scenic art, paint, props and construction departments of various fox productions including Deadpool, Dawn of the Planet of the Apes and X-Men Days of Future Past
+
