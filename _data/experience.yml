@@ -1,7 +1,7 @@
 - company: Unity Technologies
   position: senior software developer
   duration: august 2020 &mdash; present
-  summary: alisdair was a member of the data platform team; responsible for the ingest and governance of data used by ml teams in both simulation and monetization
+  summary: alisdair is a member of the data platform team; responsible for the ingest and governance of data used by ml teams in both simulation and monetization
   responsibilies:
     - operated the platform that ingests over 60 billion discrete events every day
     - outreach to other teams within unity to gather requirements and design strategies for onboarding their data to the platform
