@@ -1,6 +1,20 @@
+- company: Unity Technologies
+  position: senior software developer
+  duration: august 2020 &mdash; present
+  summary: alisdair was a member of the data platform team; responsible for the ingest and governance of data used by ml teams in both simulation and monetization
+  responsibilies:
+    - operated the platform that ingests over 60 billion discrete events every day
+    - outreach to other teams within unity to gather requirements and design strategies for onboarding their data to the platform
+    - recruitment and hiring in growing the team from 4 members to 16 in only six months
+  achievements:
+    - cut operating costs of data ingest by over 40% via a redesigned architecture that eliminated redundant steps
+    - designed and delivered a data quality monitoring framework to address lack of confidence in existing platform within unity
+    - delivered an implementation for a 10x expansion of a critical aspect of data platform ingest
+    - successfully expanded responsibility of the data platform team to cover not just the infrastructure and internal operations of the team but also the operations of applications that produce and consume data
+
 - company: SEDNA Systems
   position: senior software developer
-  duration: april 2018 &mdash; present
+  duration: april 2018 &mdash; july 2020
   summary: alisdair led the team responsible for SEDNA's API, primary and secondary data stores (MySQL and Elasticsearch) and supporting services and infrastructure
   responsibilities:
     - worked with product managers to refine product goals into technical requirements
@@ -23,9 +37,3 @@
     - led the design and implementation of a data ingestion pipeline capable of capturing billions of data points each day; aggregating, deduplicating and storing while maintaining data providence to faciliate the invalidation or replacement of already ingested data
     - wrote and maintained a framework and react application to allow data analysts and customer implementation specialists to submit and run spark sql queries over data stored across aws s3, aws redshift and postgresql and track outdated query results for which new or updated data existed
     - developed an API and angular application to allow customers to submit and validate supplemental data used to enrich the data automatically ingested via other means
-
-- company: Twentieth Century Fox Film Productions
-  position: scenic art department coordinator
-  duration: january 2012 &mdash; april 2015
-  summary: alisdair worked as a supervisor in the scenic art, paint, props and construction departments of various fox productions including Deadpool, Dawn of the Planet of the Apes and X-Men Days of Future Past
-
